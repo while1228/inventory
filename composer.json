@@ -1,0 +1,19 @@
+{
+    "name": "berniey/inventory",
+    "description": "inventory system",
+    "type": "project",
+    "require": {
+        "stevebauman/inventory": "dev-master"
+    },
+    "require-dev": {
+        "stevebauman/inventory": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bernie Yang",
+            "email": "while1228@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
